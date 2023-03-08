@@ -1,0 +1,26 @@
+.section-service {
+  display: flex;
+  align-items: center;
+  /* border-bottom: 1px solid #f2f2f2; */
+}
+
+.feature-list section {
+  border-top: solid 1px #eee;
+  padding-left: 0;
+  padding-top: 10px;
+  margin-bottom: -33px;
+}
+
+.icon-container {
+  margin-right: 10px;
+  /* ajuste según el espacio deseado entre la imagen y el texto */
+}
+
+.icon-service {
+  width: 80px; /* ajuste según el tamaño de la imagen */
+  height: 80px; /* ajuste según el tamaño de la imagen */
+}
+
+.description-service {
+  margin: 0; /* para quitar el margen predeterminado del encabezado */
+}
